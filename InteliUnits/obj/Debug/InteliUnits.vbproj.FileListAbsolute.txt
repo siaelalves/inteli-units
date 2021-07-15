@@ -1,0 +1,11 @@
+E:\Projetos\VS\InteliUnits\InteliUnits\bin\Debug\InteliUnits.exe.config
+E:\Projetos\VS\InteliUnits\InteliUnits\bin\Debug\InteliUnits.exe
+E:\Projetos\VS\InteliUnits\InteliUnits\bin\Debug\InteliUnits.pdb
+E:\Projetos\VS\InteliUnits\InteliUnits\bin\Debug\InteliUnits.xml
+E:\Projetos\VS\InteliUnits\InteliUnits\obj\Debug\InteliUnits.main.resources
+E:\Projetos\VS\InteliUnits\InteliUnits\obj\Debug\InteliUnits.Resources.resources
+E:\Projetos\VS\InteliUnits\InteliUnits\obj\Debug\InteliUnits.vbproj.GenerateResource.Cache
+E:\Projetos\VS\InteliUnits\InteliUnits\obj\Debug\InteliUnits.exe
+E:\Projetos\VS\InteliUnits\InteliUnits\obj\Debug\InteliUnits.xml
+E:\Projetos\VS\InteliUnits\InteliUnits\obj\Debug\InteliUnits.pdb
+E:\Projetos\VS\InteliUnits\InteliUnits\obj\Debug\InteliUnits.vbprojResolveAssemblyReference.cache
